@@ -1,3 +1,4 @@
+package com.personalJava.AllJava;
 import java.util.Scanner;
 import java.util.*;
 

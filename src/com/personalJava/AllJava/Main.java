@@ -1,3 +1,5 @@
+package com.personalJava.AllJava;
+
 import java.util.Arrays;
 
 public class Main {
