@@ -5,7 +5,7 @@ import java.util.*;
 public class Animal {
     // static means this number is shared by all objects of type Animal
     // final means that this value can't be changed
-    public static final double FAVNUMBER = 1.6180;
+    //public static final double FAVNUMBER = 1.6180;
 
     // Variables (Fields) start with a letter, underscore or $
     // Private fields can only be accessed by other methods in the class
